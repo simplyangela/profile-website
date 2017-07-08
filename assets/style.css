@@ -1,0 +1,47 @@
+header {
+    background: #0088cc;
+    text-align: center;
+    margin: auto;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    width: 1000px;
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: 'Play', sans-serif;
+}
+
+h4 {
+    font-size: 17pt;
+    font-family: 'Play', sans-serif;
+}
+
+img {
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+        /*border: 3px solid #69c5e4;*/
+    border-radius: 20px;
+    width : 300px;
+    transform: rotate(-90deg);
+}
+p {
+    font-size: 15pt;
+    font-family: 'Questrial', sans-serif;
+    margin: 2em 10em 2em 10em; 
+ }
+
+ li {
+     font-size: 13pt;
+     font-family: 'Questrial', sans-serif;
+     margin: 0em 20em 0em 35em;
+ }
+
+ footer {
+     text-align: center;
+ }
+
+ h2 {
+     text-align: center; 
+     font-family: 'Acme', sans-serif;
+ }
